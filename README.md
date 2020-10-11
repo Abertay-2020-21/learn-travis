@@ -1,3 +1,12 @@
+##  CMP307 Foreword
+Travis CI is an example of a Continuous Integration (CI) tool for GitHub. Travis CI is part of the GitHub Education Pack, offering private builds for free while you're a student. Travis CI is compatible with: C, C++, Java, Python, and many more! This tutorial is a ***quick guide*** and after completing it you should continue exploring with your [programming language](https://docs.travis-ci.com/user/languages/) of choice.
+
+As most of you will be completing your coursework with different programming languages, it is advised that you research how to integrate Travis CI for your own development language ***after*** completing this short tutorial exercise. If your preferred language is not supported, check out alternative CI tools (e.g. *Jenkins*) here: https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software
+
+Some languages have their own CI tool support built into the IDE (e.g. C# and Visual Studio). For remote compilation and testing, have a look at GitLab, which hosts support for a "worker" machine to compile and run code tests for you.
+
+***Tutorial forked from [dwyl/learn-travis](https://github.com/dwyl/learn-travis)***
+
 # Learn Travis
 
 <div align="center">
